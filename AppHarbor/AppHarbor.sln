@@ -5,15 +5,15 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "CodeTemplates.WebCordovaTypescript", "CodeTemplates.WebCordovaTypescript\CodeTemplates.WebCordovaTypescript.jsproj", "{33D7B38F-349A-4C77-8210-E384A214EC91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTemplates.WebMVCWebApi", "CodeTemplates.WebMVCWebApi\CodeTemplates.WebMVCWebApi.csproj", "{F7E1EDDE-DA24-4295-B8FC-64DCEAEC31F3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTemplates.CodePatterns", "CodeTemplates.CodePatterns\CodeTemplates.CodePatterns.csproj", "{5830F37A-08D0-4B20-886A-F79BF0A11FC7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTemplates.SandboxConsole", "CodeTemplates.SandboxConsole\CodeTemplates.SandboxConsole.csproj", "{48BDC5B4-90D9-4880-9A42-10A9C46FEB9A}"
 EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "CodeTemplate.Web.Ionic", "CodeTemplate.Web.Ionic\CodeTemplate.Web.Ionic.jsproj", "{1F206072-ADAF-43DC-A643-19804E21CFAD}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTemplates.Web.WebForms", "CodeTemplates.Web.WebForms\CodeTemplates.Web.WebForms.csproj", "{20859CD9-3AA1-42DC-9FA7-361E0DCA5BA0}"
 EndProject
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "CodeTemplate.Web.Ionic", "CodeTemplate.Web.Ionic\CodeTemplate.Web.Ionic.jsproj", "{1F206072-ADAF-43DC-A643-19804E21CFAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTemplates.WebMVCWebApi", "CodeTemplates.WebMVCWebApi\CodeTemplates.WebMVCWebApi.csproj", "{F7E1EDDE-DA24-4295-B8FC-64DCEAEC31F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
